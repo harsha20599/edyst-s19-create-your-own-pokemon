@@ -27,5 +27,11 @@ Make sure you have these installed in your system
   4. Make API calls and enjoy.
 ---
 
+## Running unit tests
+  1. Simply, run this command after npm install
+  ```shell
+  $ npm run test
+  ```
+
 ## Author
 [harsha20599](https://github.com/harsha20599)

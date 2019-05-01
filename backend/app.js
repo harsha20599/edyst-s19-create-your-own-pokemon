@@ -222,3 +222,5 @@ function getUpdateString(data, id) {
 app.listen(8006, () => {
   console.log("Server running on port 8006");
 });
+
+module.exports = app;
